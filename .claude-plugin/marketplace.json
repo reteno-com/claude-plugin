@@ -6,14 +6,14 @@
   },
   "metadata": {
     "description": "Reteno skills and tools for Claude Code",
-    "version": "0.1.1"
+    "version": "0.1.2"
   },
   "plugins": [
     {
       "name": "reteno",
       "source": "./plugins/reteno",
       "description": "Reteno email editor, web funnel analyzer, and MCP integration",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "category": "marketing",
       "tags": ["reteno", "email", "funnel", "marketing"]
     }
